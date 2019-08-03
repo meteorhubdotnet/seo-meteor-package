@@ -3,7 +3,7 @@ var path = Npm.require('path');
 
 Package.describe({
   "summary": "Render SEO data for all bots and users",
-  "version": "1.0",
+  "version": "1.0.0",
   "git": "https://github.com/meteorhubdotnet/seo-meteor-package",
   "name": "meteorhubdotnet:seo"
 });
